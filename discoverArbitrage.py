@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-### Yunqiu (Julie) Li Problem Set 2
+### Yunqiu (Julie) Li Problem Set 2 Fall 2018
 
 Created on Mon Oct  1 02:03:16 2018
 
